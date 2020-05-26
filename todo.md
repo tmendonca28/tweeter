@@ -4,7 +4,7 @@
         -> Image -> Media storage server
     -> Delete
     -> Retweeting
-    -> Liking
+    -> Liking & Unliking
 
 2. Users
     -> Register
