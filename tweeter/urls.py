@@ -17,10 +17,10 @@ from django.contrib import admin
 from django.urls import path
 
 from tweets.views import (
-    home_view, 
-    tweet_details_view, 
-    tweet_list_view, 
-    tweet_create_view, 
+    home_view,
+    tweet_details_view,
+    tweet_list_view,
+    tweet_create_view,
     tweet_delete_view,
     tweet_action_view,
 )
